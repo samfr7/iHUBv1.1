@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+footer{
+    font-size: 18px;
+    left: 0;
+    bottom: 100;
+    width: 100%;
+    color: black;
+    text-align: center;
+  }
+  .content3{
+    padding: 2%;
+    opacity: 0.6;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 24px;
+  }
+  p{font-size: 16px;}
+  .content4{
+    margin-left: 0%;
+    color: black;
+    font-size: 17px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  .content4{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+  }
+  .contact{
+    padding: 0 35px 35px;
+    margin: 0px 70px 70px 0px;
+    height: 150px;
+    width: 300px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+
+  }
+  .contact1{
+    padding: 0 25px 25px;
+    margin: 0px 70px 70px 0px;
+    height: 150px;
+    width: 300px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+  }
+
+
+  .social-media{
+    text-decoration: none;
+    color: black;
+}
+.social-media:nth-child(1):hover{
+    color: blue;
+}
+.social-media:nth-child(2):hover{
+    color: rgb(248, 87, 114);
+}
+.social-media:nth-child(3):hover{
+    color: red;
+}
+.social-media:nth-child(4):hover{
+    color: rgb(76, 137, 241);
+}
+.social-media:nth-child(5):hover{
+    color: rgb(11, 7, 248);
+}
+  
+ 
+.main-block {
+  margin: 0;
+  padding: 0;
+}
+
+.select-active-class a:hover {
+  background-color: rgb(43, 123, 253);
+  color: white;
+}
+
+
+
+.dates {
+  font-weight: 900;
+  color: black;
+}
